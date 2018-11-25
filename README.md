@@ -36,6 +36,7 @@ Steps Followed:
       *   This file is first uploaded on the local host.
       *   But this file has some irregularities(some names are in double quotes), which must be removed in order to be operated. So, with the help of sql, it is made proper (using the file "sort") and again re-uploaded on the localhost.
       *   Then this file is operated upon using various Hadoop Technologies (HDFS, PIG and HIVE) to get the results.
+      *   A script file to run the answers of all the queries written above, named "SMENU", is used.
 --------------------------------------------------------------------------------------------------------------------------
 RESULTS:
 At the end of the analysis, the following queries were answered:
